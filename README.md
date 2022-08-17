@@ -16,6 +16,6 @@ if you_need_developer:
 <img src="https://cdn.iconscout.com/icon/free/png-128/nginx-4-1174926.png">
 </p>
 
-## Some My Shitty Projects
+## Some Projects For Fun and Nothing Else
 
 ⬇ GOES HERE ⬇

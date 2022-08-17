@@ -2,5 +2,5 @@
 
 ```python
 if you_need_deloper:
-  contcat_me()
+  contact_me()
 ```

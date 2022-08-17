@@ -2,7 +2,7 @@
 
 ```python
 if you_need_developer:
-  contact_me('dHo0Njc4QGdtYWlsLmNvbQo=')
+  contact_me()
 ```
 
 ## My Stack

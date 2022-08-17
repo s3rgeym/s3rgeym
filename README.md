@@ -1,9 +1,8 @@
 ### Hello World!
 
 ```python
-# just do it!
 if you_need_developer:
-  contact_me()
+  contact_me('dHo0Njc4QGdtYWlsLmNvbQo=')
 ```
 
 ## My Stack

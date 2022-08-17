@@ -8,8 +8,10 @@ if you_need_developer:
 ## My Stack
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/s3rgeym/programming-languages-logos/master/src/python/python_128x128.png">
-<img src="https://raw.githubusercontent.com/s3rgeym/programming-languages-logos/master/src/python/python_128x128.png">
-<img src="https://raw.githubusercontent.com/s3rgeym/programming-languages-logos/master/src/python/python_128x128.png">
-<img src="https://raw.githubusercontent.com/s3rgeym/programming-languages-logos/master/src/python/python_128x128.png">
+<img src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png">
+<img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png">
+<img src="https://cdn.iconscout.com/icon/free/png-256/vuejs-3-1175070.png">
+<img src="https://cdn.iconscout.com/icon/free/png-256/linux-3521549-2944967.png">
+<img src="https://cdn.iconscout.com/icon/free/png-256/docker-3628734-3029959.png">
+<img src="https://cdn.iconscout.com/icon/free/png-256/nginx-4-1174926.png">
 </p>

@@ -1,13 +1,8 @@
-> Если я случайно откликнулся на вакансию с Java, PHP, GO (хотя на GO я писать в приниципе могу, немного освежив знания) и тп, то писать мне не надо. Это ошибка и я просто промахнулся, нажимая кнопку. Во всем виноват hh и его "умные" подходящие вакансии (нейросети, такие нейросети).
+# Hello World
 
-### Hello World!
+Looking for a remote job. Programming expirience: +13 years (since 2009).
 
-```python
-if you_need_developer:
-  contact_me()
-```
-
-## My Stack
+## Stack
 
 <p align="center">
 <img src="https://cdn.iconscout.com/icon/free/png-128/python-2-226051.png">
@@ -21,6 +16,6 @@ if you_need_developer:
 <img src="https://cdn.iconscout.com/icon/free/png-128/redis-3-1175053.png">
 </p>
 
-## Some Projects For Fun and Nothing Else
+## Some Projects for Fun
 
 ⬇ GOES HERE ⬇

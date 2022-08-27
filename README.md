@@ -2,7 +2,7 @@
 
 Looking for a remote job. Programming expirience: +13 years (since 2009).
 
-## Stack
+## Development Stack
 
 <p align="center">
 <img src="https://cdn.iconscout.com/icon/free/png-128/python-2-226051.png">
@@ -15,7 +15,3 @@ Looking for a remote job. Programming expirience: +13 years (since 2009).
 <img src="https://cdn.iconscout.com/icon/free/png-128/postgresql-11-1175122.png">
 <img src="https://cdn.iconscout.com/icon/free/png-128/redis-3-1175053.png">
 </p>
-
-## Some Projects for Fun
-
-⬇ GOES HERE ⬇

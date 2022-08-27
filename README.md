@@ -1,6 +1,6 @@
 # Hello World
 
-Looking for a remote job (Web Development/Scrapping/Pentesting). Programming expirience: +13 years (since 2009).
+Looking for a remote job (Web Development/Scrapping/Browser Automation/Pentesting). Programming expirience: +13 years (since 2009).
 
 ## Development Stack
 

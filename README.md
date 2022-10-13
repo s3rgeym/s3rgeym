@@ -1,6 +1,6 @@
 # Hello World
 
-Looking for a remote job (Web Development/Scrapping/Browser Automation/Pentesting). Programming expirience: +13 years (since 2009). Public CV on request (I prefer to hide my real identity).
+Looking for a remote job (Web Development/Scrapping/Browser Automation/Pentesting). Programming expirience: +13 years (since 2009). Public CV on request (I prefer to hide my real identity). Until 2017, I worked with carders, I was the operator of the [Zeus](https://github.com/Visgean/Zeus) botnet. I consider any proposals, including illegal ones.
 
 ## Development Stack
 

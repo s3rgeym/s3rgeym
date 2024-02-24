@@ -5,15 +5,15 @@ My priority is to look for work in the UAE, Serbia, Turkey or Cyprus. Что-т�
 ## Development Stack
 
 <p align="center">
-<img src="https://cdn.iconscout.com/icon/free/png-128/python-2-226051.png">
-<img src="https://cdn.iconscout.com/icon/free/png-128/javascript-2752148-2284965.png">
-<img src="https://cdn.iconscout.com/icon/free/png-128/vuejs-3-1175070.png">
-<img src="https://cdn.iconscout.com/icon/free/png-128/node-js-3-1174937.png">
-<img src="https://cdn.iconscout.com/icon/free/png-128/linux-3521549-2944967.png">
-<img src="https://cdn.iconscout.com/icon/free/png-128/docker-3628734-3029959.png">
-<img src="https://cdn.iconscout.com/icon/free/png-128/nginx-4-1174926.png">
-<img src="https://cdn.iconscout.com/icon/free/png-128/postgresql-11-1175122.png">
-<img src="https://cdn.iconscout.com/icon/free/png-128/redis-3-1175053.png">
+<img src="https://cdn.iconscout.com/icon/free/png-128/python-2-226051.png" height="128">
+<img src="https://cdn.iconscout.com/icon/free/png-128/javascript-2752148-2284965.png" height="128">
+<img src="https://cdn.iconscout.com/icon/free/png-128/vuejs-3-1175070.png" height="128">
+<img src="https://cdn.iconscout.com/icon/free/png-128/node-js-3-1174937.png" height="128">
+<img src="https://cdn.iconscout.com/icon/free/png-128/linux-3521549-2944967.png" height="128">
+<img src="https://cdn.iconscout.com/icon/free/png-128/docker-3628734-3029959.png" height="128">
+<img src="https://cdn.iconscout.com/icon/free/png-128/nginx-4-1174926.png" height="128">
+<img src="https://cdn.iconscout.com/icon/free/png-128/postgresql-11-1175122.png" height="128">
+<img src="https://cdn.iconscout.com/icon/free/png-128/redis-3-1175053.png" height="128">
 </p>
 
 ![](https://hit.yhype.me/github/profile?user_id=12753171)

@@ -28,7 +28,7 @@ Hypocrites from Europe, the United States and Israel have helped Putin block the
 <img src="https://github.com/s3rgeym/s3rgeym/assets/12753171/f428db36-4d3a-4439-a054-4fe5389d748c" width="240">
 <p>
 
-<p align="center">THANKS FOR RUSSIAN CYBERPUNK, ASSHOLES / Киберпанк, который мы заслужили 🙏 Londonobad ☢️💥🔥🙆🏿 👍</p>
+<p align="center">THANKS FOR RUSSIAN CYBERPUNK, ASSHOLES / Киберпанк, который мы заслужили 🙏 Belgorod 🚀 Londonobad ☢️💥🔥🙆🏿 2024?</p>
 
 <!--
 

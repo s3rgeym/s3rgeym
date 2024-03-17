@@ -35,5 +35,3 @@ Hypocrites from Europe, the United States and Israel have helped Putin block the
 Can anyone answer me why some cryptocurrency exchanges sent out letters to stop serving Russian customers as of February 25, two weeks before the war in Ukraine started around February 13, but at the same time British, Ukrainian and other propagandists claim that Putin will launch an attack on the 21st, but it turns out that cryptocurrency exchanges know better than Putin when he will attack Ukraine? This question has been haunting me for two years now.
 
 -->
-
-🙏 Londonobad ☢️💥🔥🙆🏿 👍

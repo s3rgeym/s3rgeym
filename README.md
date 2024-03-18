@@ -20,6 +20,9 @@ My priority is to look for work in the UAE, Serbia, Turkey or Cyprus. Что-т�
 
 ---
 
+<details>
+<summary>.</summary>
+
 Hypocrites from Europe, the United States and Israel have helped Putin block the Internet for many years by providing [SORM](https://en.wikipedia.org/wiki/SORM) equipment and servers to store Internet traffic under the [Yarovaya Law](https://en.wikipedia.org/wiki/Yarovaya_law). You are as deceitful as your smiles. And now you are doing the same thing, but you are blocking access to your sites for Russians yourself. Надеюсь, что в случае следующего переворота к власти придут люди, которые уебут ядеrкой по вашим миниатюрным странам, населенными трансгендерными оленями, куколдами и ваххабитами. Пошли вы нахуй.
 
 <p align="center">
@@ -33,3 +36,5 @@ Hypocrites from Europe, the United States and Israel have helped Putin block the
 Can anyone answer me why some cryptocurrency exchanges sent out letters to stop serving Russian customers as of February 25, two weeks before the war in Ukraine started around February 13, but at the same time British, Ukrainian and other propagandists claim that Putin will launch an attack on the 21st, but it turns out that cryptocurrency exchanges know better than Putin when he will attack Ukraine? This question has been haunting me for two years now.
 
 -->
+
+</details>

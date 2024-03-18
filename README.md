@@ -18,6 +18,8 @@ My priority is to look for work in the UAE, Serbia, Turkey or Cyprus. Что-т�
 
 ![](https://hit.yhype.me/github/profile?user_id=12753171)
 
+<!--
+
 <details>
 <summary></summary>
 
@@ -30,3 +32,5 @@ Hypocrites from Europe, the United States and Israel have helped Putin block the
 <p align="center">THANKS FOR RUSSIAN CYBERPUNK, ASSHOLES / Киберпанк, который мы заслужили.</p>
 
 </details>
+
+-->

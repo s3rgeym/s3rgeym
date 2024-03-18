@@ -18,8 +18,6 @@ My priority is to look for work in the UAE, Serbia, Turkey or Cyprus. Что-т�
 
 ![](https://hit.yhype.me/github/profile?user_id=12753171)
 
----
-
 <details>
 <summary></summary>
 

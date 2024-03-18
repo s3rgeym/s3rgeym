@@ -19,7 +19,7 @@ My priority is to look for work in the UAE, Serbia, Turkey or Cyprus. Что-т�
 ![](https://hit.yhype.me/github/profile?user_id=12753171)
 
 <details>
-<summary></summary>
+<summary>...</summary>
 
 Hypocrites from Europe, the United States and Israel have helped Putin block the Internet for many years by providing [SORM](https://en.wikipedia.org/wiki/SORM) equipment and servers to store Internet traffic under the [Yarovaya Law](https://en.wikipedia.org/wiki/Yarovaya_law). You are as deceitful as your smiles. And now you are doing the same thing, but you are blocking access to your sites for Russians yourself. Надеюсь, что в случае следующего переворота к власти придут люди, которые уебут ядеrкой по вашим миниатюрным странам, населенными трансгендерными оленями, куколдами и ваххабитами. Пошли вы нахуй.
 

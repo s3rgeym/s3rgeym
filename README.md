@@ -19,20 +19,14 @@ My priority is to look for work in the UAE, Serbia, Turkey or Cyprus. Что-т�
 ![](https://hit.yhype.me/github/profile?user_id=12753171)
 
 <details>
-<summary>...</summary>
+<summary></summary>
 
-Hypocrites from Europe, the United States and Israel have helped Putin block the Internet for many years by providing [SORM](https://en.wikipedia.org/wiki/SORM) equipment and servers to store Internet traffic under the [Yarovaya Law](https://en.wikipedia.org/wiki/Yarovaya_law). You are as deceitful as your smiles. And now you are doing the same thing, but you are blocking access to your sites for Russians yourself. Надеюсь, что в случае следующего переворота к власти придут люди, которые уебут ядеrкой по вашим миниатюрным странам, населенными трансгендерными оленями, куколдами и ваххабитами. Пошли вы нахуй.
+Hypocrites from Europe, the United States and Israel have helped Putin block the Internet for many years by providing [SORM](https://en.wikipedia.org/wiki/SORM) equipment and servers to store Internet traffic under the [Yarovaya Law](https://en.wikipedia.org/wiki/Yarovaya_law). You are as deceitful as your smiles. And now you are doing the same thing, but you are blocking access to your sites for Russians yourself. Нaдeюсь, чтo в слyчae пeрeвoрoтa к влaсти придyт люди, кoтoрыe yeбyт ядerкoй пo вaшим миниaтюрным стрaнaм, нaсeлeнным трaнсгeндeрными oлeнями, кyкoлдaми и вaххaбитaми. Пoшли вы нaхyй. Любить вaс y мeня мeньшe причин чeм дaжe бyнкeрнoгo дeдa.
 
 <p align="center">
 <img src="https://github.com/s3rgeym/s3rgeym/assets/12753171/f428db36-4d3a-4439-a054-4fe5389d748c" width="240">
 <p>
 
 <p align="center">THANKS FOR RUSSIAN CYBERPUNK, ASSHOLES / Киберпанк, который мы заслужили.</p>
-
-<!--
-
-Can anyone answer me why some cryptocurrency exchanges sent out letters to stop serving Russian customers as of February 25, two weeks before the war in Ukraine started around February 13, but at the same time British, Ukrainian and other propagandists claim that Putin will launch an attack on the 21st, but it turns out that cryptocurrency exchanges know better than Putin when he will attack Ukraine? This question has been haunting me for two years now.
-
--->
 
 </details>

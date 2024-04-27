@@ -1,4 +1,4 @@
-Looking for a remote job (Web Development/Scrapping/Browser Automation/Pentesting). Programming expirience: 15 years (since 2009). I consider any proposals, including illegal ones. I do not work against the inhabitants of Russia.
+Looking for a remote job (Web Development/Scrapping/Browser Automation/Pentesting). Programming expirience: 15 years (since 2009). I consider any proposals<!--, including illegal ones -->. I do not work against the inhabitants of Russia.
 
 My priority is to look for work in the UAE, Serbia, Turkey or Cyprus. 
 

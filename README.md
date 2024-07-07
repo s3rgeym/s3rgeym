@@ -15,6 +15,8 @@ My priority is to look for work in the UAE, Serbia, Turkey or Cyprus.
 <img src="https://cdn.iconscout.com/icon/free/png-128/postgresql-11-1175122.png" height="128">
 <img src="https://cdn.iconscout.com/icon/free/png-128/redis-3-1175053.png" height="128">
 
+---
+
 ![](https://github-readme-stats.vercel.app/api?username=s3rgeym&show_icons=true&theme=dark))
 </div>
 

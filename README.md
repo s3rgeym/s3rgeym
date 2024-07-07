@@ -4,7 +4,7 @@ My priority is to look for work in the UAE, Serbia, Turkey or Cyprus.
 
 ## Development Stack
 
-<p align="center">
+<div align="center">
 <img src="https://cdn.iconscout.com/icon/free/png-128/python-2-226051.png" height="128">
 <img src="https://cdn.iconscout.com/icon/free/png-128/javascript-2752148-2284965.png" height="128">
 <img src="https://cdn.iconscout.com/icon/free/png-128/vuejs-3-1175070.png" height="128">
@@ -14,7 +14,9 @@ My priority is to look for work in the UAE, Serbia, Turkey or Cyprus.
 <img src="https://cdn.iconscout.com/icon/free/png-128/nginx-4-1174926.png" height="128">
 <img src="https://cdn.iconscout.com/icon/free/png-128/postgresql-11-1175122.png" height="128">
 <img src="https://cdn.iconscout.com/icon/free/png-128/redis-3-1175053.png" height="128">
-</p>
+
+![](https://github-readme-stats.vercel.app/api?username=s3rgeym&show_icons=true&theme=dark))
+</div>
 
 ![](https://hit.yhype.me/github/profile?user_id=12753171)
 

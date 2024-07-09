@@ -20,6 +20,8 @@ My priority is to look for work in the UAE, Serbia, Turkey or Cyprus.
 ---
 
 ![](https://github-readme-stats.vercel.app/api?username=s3rgeym&show_icons=true&theme=dark))
+
+<img src="https://pngimg.com/uploads/carpet/carpet_PNG44.png" height="270">
 </div>
 
 ![](https://hit.yhype.me/github/profile?user_id=12753171)

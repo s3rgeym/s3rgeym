@@ -2,7 +2,7 @@ Looking for a remote job (Web Development/Scrapping/Browser Automation/Pentestin
 
 My priority is to look for work in the UAE, Serbia, Turkey or Cyprus.
 
-> Я есть на HH и Хабр Карьере. К людям на других сайтах я отношения не имею!
+> Я есть на LOR, HH и Хабр Карьере. К людям на других сайтах я отношения не имею!
 
 ## Development Stack
 

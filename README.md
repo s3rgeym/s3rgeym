@@ -1,6 +1,8 @@
 Looking for a remote job (Web Development/Scrapping/Browser Automation/Pentesting). Programming expirience: 15 years (since 2009). I consider any proposals<!--, including illegal ones -->. I do not work against the inhabitants of Russia.
 
-My priority is to look for work in the UAE, Serbia, Turkey or Cyprus. 
+My priority is to look for work in the UAE, Serbia, Turkey or Cyprus.
+
+> Я есть на HH и Хабр Карьере. К людям на других сайтах я отношения не имею!
 
 ## Development Stack
 

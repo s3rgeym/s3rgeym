@@ -59,7 +59,7 @@ I have over 15 years of experience in commercial web development. I was introduc
 ### Where I do not want to work
 
 Positions I am not interested in:
-- Yandex, VK, banks, government companies, or foreign companies that introduced or support sanctions.
+- Yandex, VK, banks, government companies, or foreign companies that introduced or support sanctions against ordinary Russians.
 - Development of new projects on Django or Angular.
 - Do not like Java-style code and "reinventing the wheel" frameworks.
 
@@ -68,9 +68,6 @@ Positions I am not interested in:
 - Multi-stage interviews — maximum 2-3 stages.
 - Test assignments — evaluate my GitHub code.
 - Interviews without a technical specialist.
-- Unreasonable interview tasks.
-- Disrespect, such as no response to applications.
-- Requests to install specific programs for calls when even Telegram is sufficient.
 
 ### Summary
 

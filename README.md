@@ -2,6 +2,9 @@
 
 I am looking for a remote part-time/full-time job with a payment of at least $25 per hour, with a flexible schedule, and no requirement to visit an office. I am registered as self-employed but can open an individual entrepreneur (IE) account. I am considering relocating abroad.
 
+<details>
+<summary>Read more</summary>
+
 ### About me
 
 - No bad habits, criminal records, or debts
@@ -73,6 +76,8 @@ Positions I am not interested in:
 
 I value effective time use and a professional approach to work. I am interested in positions related to web development and innovative projects where I can apply my knowledge and skills, without unnecessary bureaucracy and recruitment stages.
 
+</details>
+
 ## Development Stack
 
 <div align="center">
@@ -94,20 +99,3 @@ I value effective time use and a professional approach to work. I am interested 
 </div>
 
 ![](https://hit.yhype.me/github/profile?user_id=12753171)
-
-<!--
-
-<details>
-<summary></summary>
-
-Hypocrites from Europe, the United States and Israel have helped Putin block the Internet for many years by providing [SORM](https://en.wikipedia.org/wiki/SORM) equipment and servers to store Internet traffic under the [Yarovaya Law](https://en.wikipedia.org/wiki/Yarovaya_law). You are as deceitful as your smiles. And now you are doing the same thing, but you are blocking access to your sites for Russians yourself. Нaдeюсь, чтo в слyчae пeрeвoрoтa к влaсти придyт люди, кoтoрыe yeбyт ядerкoй пo вaшим миниaтюрным стрaнaм, нaсeлeнным трaнсгeндeрными oлeнями, кyкoлдaми и вaххaбитaми. Пoшли вы нaхyй. Любить вaс y мeня мeньшe причин чeм дaжe бyнкeрнoгo дeдa.
-
-<p align="center">
-<img src="https://github.com/s3rgeym/s3rgeym/assets/12753171/f428db36-4d3a-4439-a054-4fe5389d748c" width="240">
-<p>
-
-<p align="center">THANKS FOR RUSSIAN CYBERPUNK, ASSHOLES / Киберпанк, который мы заслужили.</p>
-
-</details>
-
--->

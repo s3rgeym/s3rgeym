@@ -7,9 +7,6 @@ I am looking for a remote part-time/full-time job with a payment of at least $20
 
 ### About me
 
-- No bad habits, criminal records, or debts
-- Personal website: [s3rgeym.pw](https://s3rgeym.pw)
-
 I have over 15 years of experience in commercial web development. I was introduced to computers at the age of 5, starting with my father's old ZX Spectrum. I began web development at 17, creating a website in HTML. Over the years, I transitioned to PHP and other languages. I worked freelance, taking orders for developing online stores and portals. Later, I moved to St. Petersburg, worked in an office, but eventually returned to remote work.
 
 ### Programming Skills and Experience

@@ -1,6 +1,6 @@
 ### What I am looking for
 
-I am looking for a remote part-time/full-time job with a payment of at least $25 per hour, with a flexible schedule, and no requirement to visit an office. I am registered as self-employed but can open an individual entrepreneur (IE) account. I am considering relocating abroad.
+I am looking for a remote part-time/full-time job with a payment of at least $20 per hour, with a flexible schedule, and no requirement to visit an office. I am registered as self-employed but can open an individual entrepreneur (IE) account. I am considering relocating abroad.
 
 <details>
 <summary>Read more</summary>

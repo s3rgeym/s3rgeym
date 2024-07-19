@@ -1,3 +1,6 @@
+<img src="https://pngimg.com/uploads/carpet/carpet_PNG44.png" height="270">
+</div>
+
 ### What I am looking for
 
 I am looking for a remote part-time/full-time job with a payment of at least $20 per hour, with a flexible schedule, and no requirement to visit an office. I am registered as self-employed but can open an individual entrepreneur (IE) account. I am considering relocating abroad.
@@ -88,8 +91,5 @@ I value effective time use and a professional approach to work. I am interested 
 ---
 
 ![](https://github-readme-stats.vercel.app/api?username=s3rgeym&show_icons=true&theme=dark))
-
-<img src="https://pngimg.com/uploads/carpet/carpet_PNG44.png" height="270">
-</div>
 
 ![](https://hit.yhype.me/github/profile?user_id=12753171)

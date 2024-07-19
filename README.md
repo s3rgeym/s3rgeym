@@ -1,7 +1,7 @@
-<div align="center">
+<!-- <div align="center">
 <img src="https://pngimg.com/uploads/carpet/carpet_PNG44.png" height="270">
 <br>Look at the carpet, now read the text below
-</div>
+</div> -->
 
 ### What I am looking for
 

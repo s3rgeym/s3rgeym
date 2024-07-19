@@ -1,4 +1,4 @@
-<img src="https://pngimg.com/uploads/carpet/carpet_PNG44.png" height="270">
+<img src="https://pngimg.com/uploads/carpet/carpet_PNG44.png" height="270" align="center">
 </div>
 
 ### What I am looking for

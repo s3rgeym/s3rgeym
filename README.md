@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://pngimg.com/uploads/carpet/carpet_PNG44.png" height="270">
-Look at the carpet, now read the text below
+<br>Look at the carpet, now read the text below
 </div>
 
 ### What I am looking for

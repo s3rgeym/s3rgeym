@@ -94,6 +94,6 @@ I value effective time use and a professional approach to work. I am interested 
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=s3rgeym&show_icons=true&theme=dark))
+![](https://github-readme-stats.vercel.app/api?username=s3rgeym&show_icons=true&theme=dark)
 
 ![](https://hit.yhype.me/github/profile?user_id=12753171)
